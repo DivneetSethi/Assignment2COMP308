@@ -69,6 +69,7 @@
     <Content Include="assets\images\facebook-logo.png" />
     <Content Include="assets\images\linkedin-logo.png" />
     <Content Include="assets\images\logo.jpg" />
+    <Content Include="assets\images\logo1.jpg" />
     <Content Include="assets\images\pic.jpg" />
     <Content Include="assets\images\work1.jpg" />
     <Content Include="assets\images\work2.jpg" />
@@ -311,6 +312,7 @@
     <Content Include="engine1\ws-ctrl-convex.eot" />
     <Content Include="engine1\ws-ctrl-convex.ttf" />
     <Content Include="engine1\ws-ctrl-convex.woff" />
+    <Content Include="assets\DivneetSethi_Resume.pdf" />
     <None Include="Scripts\jquery-1.8.0.intellisense.js" />
     <Content Include="Scripts\jquery-1.8.0.js" />
     <Content Include="Scripts\jquery-1.8.0.min.js" />
