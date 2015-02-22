@@ -72,6 +72,7 @@
     <Content Include="assets\images\logo1.jpg" />
     <Content Include="assets\images\pic.jpg" />
     <Content Include="assets\images\projectsicon.png" />
+    <Content Include="assets\images\servicesicon.jpg" />
     <Content Include="assets\images\work1.jpg" />
     <Content Include="assets\images\work2.jpg" />
     <Content Include="assets\images\work3.jpg" />
