@@ -292,6 +292,8 @@
     <Content Include="Content\jquery.mobile.theme-1.4.5.css" />
     <Content Include="Content\jquery.mobile.theme-1.4.5.min.css" />
     <Content Include="CSS\Mobile_StyleSheet.css" />
+    <Content Include="CSS\myTheme.css" />
+    <Content Include="CSS\myTheme.min.css" />
     <Content Include="data1\images\1.jpg" />
     <Content Include="data1\images\2.jpg" />
     <Content Include="data1\images\work1.jpg" />
