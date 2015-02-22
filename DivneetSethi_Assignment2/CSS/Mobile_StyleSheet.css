@@ -1,4 +1,9 @@
-﻿.ui-icon-projecticon {
+﻿/*  File: Mobile_StyleSheet 
+    Author: Divneet Singh Sethi 
+    Website: divneetsethi.github.com/mobile
+    Desription: style sheet to set icons for button */
+
+.ui-icon-projecticon {
     background: url("../assets/images/projectsicon.png") no-repeat rgba(0, 0, 0, 0.4) !important;
 }
 .ui-icon-servicesicon {
